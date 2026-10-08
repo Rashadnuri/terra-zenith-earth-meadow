@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Оррери",
+      "hasCanvas": false,
+      "bodyTextLen": 234,
+      "bodyTextHash": "cfbedaa36239999566be29572770829eca5831b331b8a92fa279c303ff22bcff",
+      "bodyTextPrefix": "Солнечная система Оррери Нажмите планету — камера подлетит. Проб",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Оррери",
+      "hasCanvas": true,
+      "bodyTextLen": 217,
+      "bodyTextHash": "2c40134eca5b083b69b91737a925728bdc5a5c49b6748900f1537c4c018c0852",
+      "bodyTextPrefix": "Солнечная система Оррери Нажмите планету — камера подлетит. Проб",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
